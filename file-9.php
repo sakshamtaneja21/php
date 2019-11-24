@@ -1,7 +1,7 @@
 <?php
 
 	//Reverse a Number (19-9-19)
-	$num = 123456;
+	$num = 753192;
 	$revnum = 0;
 	while ($num > 1){
 		$rem = $num % 10;
